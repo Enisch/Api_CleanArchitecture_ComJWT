@@ -1,0 +1,17 @@
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\usuario.Infra\bin\Debug\net7.0\usuario.Infra.Data.deps.json
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\usuario.Infra\bin\Debug\net7.0\usuario.Infra.Data.runtimeconfig.json
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\usuario.Infra\bin\Debug\net7.0\usuario.Infra.Data.dll
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\usuario.Infra\bin\Debug\net7.0\usuario.Infra.Data.pdb
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\usuario.Infra\bin\Debug\net7.0\usuarioaplication.Domain.dll
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\usuario.Infra\bin\Debug\net7.0\usuarioaplication.Domain.pdb
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\usuario.Infra\obj\Debug\net7.0\usuario.Infra.Data.csproj.AssemblyReference.cache
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\usuario.Infra\obj\Debug\net7.0\usuario.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\usuario.Infra\obj\Debug\net7.0\usuario.Infra.Data.AssemblyInfoInputs.cache
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\usuario.Infra\obj\Debug\net7.0\usuario.Infra.Data.AssemblyInfo.cs
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\usuario.Infra\obj\Debug\net7.0\usuario.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\usuario.Infra\obj\Debug\net7.0\usuario.Infra.Data.csproj.CopyComplete
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\usuario.Infra\obj\Debug\net7.0\usuario.Infra.Data.dll
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\usuario.Infra\obj\Debug\net7.0\refint\usuario.Infra.Data.dll
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\usuario.Infra\obj\Debug\net7.0\usuario.Infra.Data.pdb
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\usuario.Infra\obj\Debug\net7.0\usuario.Infra.Data.genruntimeconfig.cache
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\usuario.Infra\obj\Debug\net7.0\ref\usuario.Infra.Data.dll

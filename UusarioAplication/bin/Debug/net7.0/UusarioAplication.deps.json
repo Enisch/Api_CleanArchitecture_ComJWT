@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "UusarioAplication/1.0.0": {
+        "dependencies": {
+          "usuarioaplication.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UusarioAplication.dll": {}
+        }
+      },
+      "usuarioaplication.Domain/1.0.0": {
+        "runtime": {
+          "usuarioaplication.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UusarioAplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "usuarioaplication.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

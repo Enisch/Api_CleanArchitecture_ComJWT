@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\usuarioaplication.Domain\usuarioaplication.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Dto%27s\" />
+    <Folder Include="Mappings\" />
+    <Folder Include="IServices_interfaces\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+</Project>
