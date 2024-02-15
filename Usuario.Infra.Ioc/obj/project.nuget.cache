@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7gYuO6fNnUQkjnPGvooiI7QERvsARD/ykHyO891p5de0/RwqUdj8HK92Vb03Yxttww3VrO4zsRe/o+w5ahClAA==",
+  "dgSpecHash": "p8E3Rurd2qNGs65zBgXOPhHmc6e2Sonlek8cKXJCQJK4DHJtbTaNqF/mJr1NItarPj2/nBTM1uAoH6PVSD8hsg==",
   "success": true,
   "projectFilePath": "D:\\Programas Visual Studio\\API's\\ApiComMigrationDto_e_Token\\Usuario.Infra.Ioc\\Usuario.Infra.Ioc.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\55119\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\55119\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.2\\microsoft.entityframeworkcore.7.0.2.nupkg.sha512",
     "C:\\Users\\55119\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.2\\microsoft.entityframeworkcore.abstractions.7.0.2.nupkg.sha512",
     "C:\\Users\\55119\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.2\\microsoft.entityframeworkcore.analyzers.7.0.2.nupkg.sha512",
@@ -17,8 +18,12 @@
     "C:\\Users\\55119\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\55119\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\55119\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\55119\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\55119\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512",
     "C:\\Users\\55119\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\7.0.0\\pomelo.entityframeworkcore.mysql.7.0.0.nupkg.sha512",
+    "C:\\Users\\55119\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\55119\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\55119\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "C:\\Users\\55119\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\55119\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\55119\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"

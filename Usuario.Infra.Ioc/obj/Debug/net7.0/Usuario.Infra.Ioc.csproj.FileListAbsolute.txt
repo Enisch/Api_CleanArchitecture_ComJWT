@@ -17,3 +17,4 @@ D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\Usuario.Infra.Ioc\ob
 D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\Usuario.Infra.Ioc\obj\Debug\net7.0\ref\Usuario.Infra.Ioc.dll
 D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\Usuario.Infra.Ioc\bin\Debug\net7.0\UusarioAplication.dll
 D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\Usuario.Infra.Ioc\bin\Debug\net7.0\UusarioAplication.pdb
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\Usuario.Infra.Ioc\obj\Debug\net7.0\Usuario.Infra.Ioc.sourcelink.json

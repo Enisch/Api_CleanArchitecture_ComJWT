@@ -1,7 +1,9 @@
 
 using Microsoft.EntityFrameworkCore;
 using MigrationDto_e_Token.Controllers;
+using usuario.Infra.Data.Repositories;
 using Usuario.Infra.Ioc;
+using usuarioaplication.Domain.InterfacesParaRepositorio;
 
 
 
@@ -9,17 +11,23 @@ using Usuario.Infra.Ioc;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
+//
 
 /*var conexão = builder.Configuration.GetConnectionString("DefaultString");
 builder.Services.AddDbContext<usuario.Infra.Data.Context.ContextDb>(op => op.UseMySql(conexão, ServerVersion.AutoDetect(conexão)));*/
 
+
+
+
 builder.Services.Infrastructure(builder.Configuration);
+
+
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.JwtToken();
+//builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 

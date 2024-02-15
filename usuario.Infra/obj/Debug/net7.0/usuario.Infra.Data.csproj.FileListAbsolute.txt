@@ -15,3 +15,4 @@ D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\usuario.Infra\obj\De
 D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\usuario.Infra\obj\Debug\net7.0\usuario.Infra.Data.pdb
 D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\usuario.Infra\obj\Debug\net7.0\usuario.Infra.Data.genruntimeconfig.cache
 D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\usuario.Infra\obj\Debug\net7.0\ref\usuario.Infra.Data.dll
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\usuario.Infra\obj\Debug\net7.0\usuario.Infra.Data.sourcelink.json

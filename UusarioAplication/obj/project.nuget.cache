@@ -1,9 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "wNqJzE9A1sU85gBHoW/kZF1sDk9bSc04WLi+1W0Em/j19iEamCGK/SWV55Tph8RU1qFguHTzMr9+vF5suIZyDg==",
+  "dgSpecHash": "M7wJHJmCYSy1ORbJ1xIlm8Oor8odJxSZS5vmz1O3/BmPR4DtBA8ey4X1Z6qGf3RQ35pxMAVWM97eSm/0F9w0Vw==",
   "success": true,
   "projectFilePath": "D:\\Programas Visual Studio\\API's\\ApiComMigrationDto_e_Token\\UusarioAplication\\UusarioAplication.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\55119\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\55119\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\55119\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\55119\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\55119\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\55119\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\55119\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\55119\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"

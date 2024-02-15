@@ -20,7 +20,7 @@ namespace usuarioaplication.Domain.Models
 
         
 
-         public UsuarioMigrationModels(int id, string nome, string email)
+        public UsuarioMigrationModels(int id, string nome, string email)
           {
             ValidationException.When(id <0, "O id não pode ser menor que 0.");
             this.id = id;

@@ -13,3 +13,4 @@ D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\UusarioAplication\ob
 D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\UusarioAplication\obj\Debug\net7.0\refint\UusarioAplication.dll
 D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\UusarioAplication\obj\Debug\net7.0\UusarioAplication.pdb
 D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\UusarioAplication\obj\Debug\net7.0\ref\UusarioAplication.dll
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\UusarioAplication\obj\Debug\net7.0\UusarioAplication.sourcelink.json

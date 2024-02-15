@@ -11,10 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Dto%27s\" />
-    <Folder Include="Mappings\" />
-    <Folder Include="IServices_interfaces\" />
-    <Folder Include="Services\" />
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
   </ItemGroup>
 
 </Project>

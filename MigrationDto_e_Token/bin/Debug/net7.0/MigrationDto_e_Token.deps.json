@@ -263,6 +263,9 @@
       },
       "Usuario.Infra.Ioc/1.0.0": {
         "dependencies": {
+          "Swashbuckle.AspNetCore.Swagger": "6.5.0",
+          "Swashbuckle.AspNetCore.SwaggerGen": "6.5.0",
+          "Swashbuckle.AspNetCore.SwaggerUI": "6.5.0",
           "UusarioAplication": "1.0.0",
           "usuario.Infra.Data": "1.0.0",
           "usuarioaplication.Domain": "1.0.0"
@@ -278,6 +281,7 @@
       },
       "UusarioAplication/1.0.0": {
         "dependencies": {
+          "AutoMapper": "13.0.1",
           "usuarioaplication.Domain": "1.0.0"
         },
         "runtime": {
