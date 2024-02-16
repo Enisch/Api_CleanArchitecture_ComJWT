@@ -51,3 +51,10 @@ D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\MigrationDto_e_Token
 D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\MigrationDto_e_Token\bin\Debug\net7.0\usuarioaplication.Domain.pdb
 D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\MigrationDto_e_Token\bin\Debug\net7.0\UusarioAplication.pdb
 D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\MigrationDto_e_Token\obj\Debug\net7.0\MigrationDto_e_Token.sourcelink.json
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\MigrationDto_e_Token\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\MigrationDto_e_Token\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\MigrationDto_e_Token\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\MigrationDto_e_Token\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\MigrationDto_e_Token\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\MigrationDto_e_Token\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Programas Visual Studio\API's\ApiComMigrationDto_e_Token\MigrationDto_e_Token\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll

@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using usuarioaplication.Domain.InterfacesParaRepositorio;
@@ -31,6 +32,18 @@ namespace UusarioAplication.Services
         public async Task<DtoUsuario> CadastrarUsuario(DtoUsuario usuario)
         {
             var NovoUsuario= mapper.Map<UsuarioMigrationModels>(usuario); 
+
+            if(usuario.Password != null)
+            {
+                using var hmca= new HMACSHA512();
+                byte[] PasswordHAsh = hmca.ComputeHash(Encoding.UTF8.GetBytes(usuario.Password));
+                byte[] PasswordSalt = hmca.Key;
+
+                NovoUsuario.alterarSenha(PasswordHAsh, PasswordSalt);
+
+            }
+            
+
             var USuarioCriado= await _usuario.CadastrarUsuario(NovoUsuario);
             return mapper.Map<DtoUsuario>(USuarioCriado);
         }

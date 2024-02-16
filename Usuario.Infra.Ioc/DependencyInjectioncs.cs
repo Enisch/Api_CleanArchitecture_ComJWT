@@ -1,6 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.IdentityModel.Tokens;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,11 +32,38 @@ namespace Usuario.Infra.Ioc
                     x => x.MigrationsAssembly(typeof(ContextDb).Assembly.FullName));
             });
 
+            //Configuração inicial JWT Token
+            services.AddAuthentication(options =>
+            {
+                options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+                options.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
+            }).AddJwtBearer(options =>
+            {
+                options.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters
+                {
+                    ValidIssuer = configuration["JWT:Issuer"],
+                    ValidAudience = configuration["JWT:Audience"],
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(configuration["JWT:SecretKey"])),
+                    ClockSkew = TimeSpan.Zero,
+
+                    ValidateIssuer = true,
+                    ValidateAudience = true,
+                    ValidateLifetime = false,
+                    ValidateIssuerSigningKey = true
+
+                };
+
+
+            });
+
+            //Configuração do AutoMapper
             services.AddAutoMapper(typeof(EntityAutoMapperUsuario));
 
             //Repositories
        
             services.AddScoped<IUsuario, UsuarioRepositories>();
+            services.AddScoped<IUsuarioAuthentication, UsuarioAuthenticationRepository>();
 
             //Services
             services.AddScoped<IServiceMapperAutomatico_Usuario, ServiceMapperAutomatico_Usuario>();

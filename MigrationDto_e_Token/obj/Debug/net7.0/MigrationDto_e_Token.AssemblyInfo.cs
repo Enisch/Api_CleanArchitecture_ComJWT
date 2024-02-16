@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MigrationDto_e_Token")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a12d291fb161e8707ee1a26e0c1b2c38d8332d33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+858b816e75dfa8ef05d169db1a7321b44ec9afca")]
 [assembly: System.Reflection.AssemblyProductAttribute("MigrationDto_e_Token")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MigrationDto_e_Token")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
