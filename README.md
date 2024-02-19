@@ -19,3 +19,5 @@ ATUALIZAÇÃO:
 
 *Mais services configurados.
 
+*Password do usuario criptografada no banco de dados(PasswordHash e PasswordSalt).
+
