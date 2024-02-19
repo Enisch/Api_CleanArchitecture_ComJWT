@@ -7,15 +7,15 @@ Objetivos do projeto:
 
 ATUALIZAÇÃO:
 
-*Criação da tabela USuarioMigratioModels através do comando de linha add-Migration/Update-Database
+*Implementação do metodo de login.
 
-*Implementação de Injeções de independencia no projeto
+*Mais implementações de Injeções de independencia no projeto
 
-*Implementação do JWTToken Presente no Swagger, porém sem funcionalidade.
+*Implementação de funcionalidades, porém não completas, do JWTToken.(Configurações do Issuer,Audience e secretKey)
 
 *Utilização de AutoMapper e Dto.
 
-*Metodos HttpPost e HttpGet configurados.
+*Melhor configurações dos metodos HttpPost e HttpGet configurados.
 
-*Services configurados.
+*Mais services configurados.
 
